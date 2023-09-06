@@ -1,0 +1,17 @@
+{
+	"name": "typescript-node 20",
+	"dockerFile": "Dockerfile",
+	"features": {},
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"formulahendry.terminal",
+				"EditorConfig.EditorConfig",
+				"streetsidesoftware.code-spell-checker",
+				"NomicFoundation.hardhat-solidity"
+			]
+		}
+	},
+	"remoteUser": "kswap",
+	"forwardPorts": [3000]
+}
